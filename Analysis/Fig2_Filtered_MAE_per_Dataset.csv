@@ -1,0 +1,215 @@
+Dataset,Subset,Source_Datatype,Model,Filtered_MAE,N_kept,N_total,N_excluded
+BDE99MR,Bond Dissociation Energies,Thermochemistry,MACE-MP-0b3,20.17533144379028,3,16,13
+BDE99MR,Bond Dissociation Energies,Thermochemistry,MACE-OMOL-0-100M,4.478551336421901,3,16,13
+BDE99MR,Bond Dissociation Energies,Thermochemistry,MACE-OMOL-0-4M,15.976991840836783,3,16,13
+BDE99MR,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-L,4.907519427681763,3,16,13
+BDE99MR,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-M,4.5268743981621595,3,16,13
+BDE99MR,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-S,4.27334229823857,3,16,13
+BDE99MR,Bond Dissociation Energies,Thermochemistry,wB97M-V,5.399963167288756,3,16,13
+BDE99nonMR,Bond Dissociation Energies,Thermochemistry,MACE-MP-0b3,14.7574457123755,27,83,56
+BDE99nonMR,Bond Dissociation Energies,Thermochemistry,MACE-OMOL-0-100M,4.005222210268874,27,83,56
+BDE99nonMR,Bond Dissociation Energies,Thermochemistry,MACE-OMOL-0-4M,9.490052678131951,27,83,56
+BDE99nonMR,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-L,3.3314497778986096,27,83,56
+BDE99nonMR,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-M,3.995072881330203,27,83,56
+BDE99nonMR,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-S,8.624940310844899,27,83,56
+BDE99nonMR,Bond Dissociation Energies,Thermochemistry,wB97M-V,1.7432390844297232,27,83,56
+BH28,Barrier Heights,Barrier Height,MACE-MP-0b3,13.333756412060353,28,28,0
+BH28,Barrier Heights,Barrier Height,MACE-OMOL-0-100M,1.4605949290636773,28,28,0
+BH28,Barrier Heights,Barrier Height,MACE-OMOL-0-4M,1.9362108704107939,28,28,0
+BH28,Barrier Heights,Barrier Height,MACE-POLAR-1-L,1.1058770192846468,28,28,0
+BH28,Barrier Heights,Barrier Height,MACE-POLAR-1-M,1.3674113550642542,28,28,0
+BH28,Barrier Heights,Barrier Height,MACE-POLAR-1-S,3.6867916988058176,28,28,0
+BH28,Barrier Heights,Barrier Height,wB97M-V,0.9850912835756124,28,28,0
+BH46,Barrier Heights,Barrier Height,MACE-MP-0b3,14.056721978664726,25,46,21
+BH46,Barrier Heights,Barrier Height,MACE-OMOL-0-100M,2.097090822433842,25,46,21
+BH46,Barrier Heights,Barrier Height,MACE-OMOL-0-4M,3.6689428526028007,25,46,21
+BH46,Barrier Heights,Barrier Height,MACE-POLAR-1-L,1.6185781650527042,25,46,21
+BH46,Barrier Heights,Barrier Height,MACE-POLAR-1-M,1.3710983549109392,25,46,21
+BH46,Barrier Heights,Barrier Height,MACE-POLAR-1-S,5.230265627781226,25,46,21
+BH46,Barrier Heights,Barrier Height,wB97M-V,1.1034026190369732,25,46,21
+BH76RC,General Reaction Energies,Thermochemistry,MACE-MP-0b3,9.592663384070617,11,30,19
+BH76RC,General Reaction Energies,Thermochemistry,MACE-OMOL-0-100M,1.1227736657386254,11,30,19
+BH76RC,General Reaction Energies,Thermochemistry,MACE-OMOL-0-4M,3.8799903597045304,11,30,19
+BH76RC,General Reaction Energies,Thermochemistry,MACE-POLAR-1-L,1.1010319600954994,11,30,19
+BH76RC,General Reaction Energies,Thermochemistry,MACE-POLAR-1-M,1.476619240140438,11,30,19
+BH76RC,General Reaction Energies,Thermochemistry,MACE-POLAR-1-S,2.1984638673794965,11,30,19
+BH76RC,General Reaction Energies,Thermochemistry,wB97M-V,0.8106246052791196,11,30,19
+BH876,Barrier Heights,Barrier Height,MACE-MP-0b3,11.880565858383058,873,876,3
+BH876,Barrier Heights,Barrier Height,MACE-OMOL-0-100M,2.1262839731937953,873,876,3
+BH876,Barrier Heights,Barrier Height,MACE-OMOL-0-4M,4.841304609822188,873,876,3
+BH876,Barrier Heights,Barrier Height,MACE-POLAR-1-L,1.9970594274334623,873,876,3
+BH876,Barrier Heights,Barrier Height,MACE-POLAR-1-M,2.943170563730008,873,876,3
+BH876,Barrier Heights,Barrier Height,MACE-POLAR-1-S,6.321204780960282,873,876,3
+BH876,Barrier Heights,Barrier Height,wB97M-V,1.3648681868507069,873,876,3
+BHDIV7,Barrier Heights,Barrier Height,MACE-MP-0b3,18.892370935289705,7,7,0
+BHDIV7,Barrier Heights,Barrier Height,MACE-OMOL-0-100M,1.6525514845814515,7,7,0
+BHDIV7,Barrier Heights,Barrier Height,MACE-OMOL-0-4M,3.997252472941677,7,7,0
+BHDIV7,Barrier Heights,Barrier Height,MACE-POLAR-1-L,2.0550537894866907,7,7,0
+BHDIV7,Barrier Heights,Barrier Height,MACE-POLAR-1-M,1.871595213189822,7,7,0
+BHDIV7,Barrier Heights,Barrier Height,MACE-POLAR-1-S,6.861828415951925,7,7,0
+BHDIV7,Barrier Heights,Barrier Height,wB97M-V,1.4722636962125644,7,7,0
+BSR36,Bond Dissociation Energies,Thermochemistry,MACE-MP-0b3,14.05612620033551,36,36,0
+BSR36,Bond Dissociation Energies,Thermochemistry,MACE-OMOL-0-100M,0.464620923780555,36,36,0
+BSR36,Bond Dissociation Energies,Thermochemistry,MACE-OMOL-0-4M,1.226261535680254,36,36,0
+BSR36,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-L,1.7164194109292925,36,36,0
+BSR36,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-M,1.4655286160831866,36,36,0
+BSR36,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-S,0.7968259386599607,36,36,0
+BSR36,Bond Dissociation Energies,Thermochemistry,wB97M-V,0.4844139985105923,36,36,0
+CR20,General Reaction Energies,Thermochemistry,MACE-MP-0b3,7.302152372712575,20,20,0
+CR20,General Reaction Energies,Thermochemistry,MACE-OMOL-0-100M,0.43345184325485564,20,20,0
+CR20,General Reaction Energies,Thermochemistry,MACE-OMOL-0-4M,0.4835828372178848,20,20,0
+CR20,General Reaction Energies,Thermochemistry,MACE-POLAR-1-L,0.41115036614646405,20,20,0
+CR20,General Reaction Energies,Thermochemistry,MACE-POLAR-1-M,0.4038048292372712,20,20,0
+CR20,General Reaction Energies,Thermochemistry,MACE-POLAR-1-S,0.866400074033782,20,20,0
+CR20,General Reaction Energies,Thermochemistry,wB97M-V,0.4407818689179345,20,20,0
+CRBH14,Barrier Heights,Barrier Height,MACE-MP-0b3,12.329810632966728,14,14,0
+CRBH14,Barrier Heights,Barrier Height,MACE-OMOL-0-100M,0.7259668326084814,14,14,0
+CRBH14,Barrier Heights,Barrier Height,MACE-OMOL-0-4M,1.1409654464409773,14,14,0
+CRBH14,Barrier Heights,Barrier Height,MACE-POLAR-1-L,0.758534661037757,14,14,0
+CRBH14,Barrier Heights,Barrier Height,MACE-POLAR-1-M,1.9396930335424762,14,14,0
+CRBH14,Barrier Heights,Barrier Height,MACE-POLAR-1-S,3.1143090775533446,14,14,0
+CRBH14,Barrier Heights,Barrier Height,wB97M-V,1.1396804343044435,14,14,0
+DARC,General Reaction Energies,Thermochemistry,MACE-MP-0b3,13.952068060492275,14,14,0
+DARC,General Reaction Energies,Thermochemistry,MACE-OMOL-0-100M,0.9689424618138041,14,14,0
+DARC,General Reaction Energies,Thermochemistry,MACE-OMOL-0-4M,0.9671844830380106,14,14,0
+DARC,General Reaction Energies,Thermochemistry,MACE-POLAR-1-L,0.9627918507153038,14,14,0
+DARC,General Reaction Energies,Thermochemistry,MACE-POLAR-1-M,0.9539479965975648,14,14,0
+DARC,General Reaction Energies,Thermochemistry,MACE-POLAR-1-S,1.3847791708602233,14,14,0
+DARC,General Reaction Energies,Thermochemistry,wB97M-V,0.7062201791782119,14,14,0
+DBH22,Proton Transfer,Barrier Height,MACE-MP-0b3,12.415882538760853,13,22,9
+DBH22,Proton Transfer,Barrier Height,MACE-OMOL-0-100M,1.749245754222486,13,22,9
+DBH22,Proton Transfer,Barrier Height,MACE-OMOL-0-4M,5.467476550217274,13,22,9
+DBH22,Proton Transfer,Barrier Height,MACE-POLAR-1-L,1.9558619610736017,13,22,9
+DBH22,Proton Transfer,Barrier Height,MACE-POLAR-1-M,2.7369793528309785,13,22,9
+DBH22,Proton Transfer,Barrier Height,MACE-POLAR-1-S,5.380028137188221,13,22,9
+DBH22,Proton Transfer,Barrier Height,wB97M-V,1.0882859737300017,13,22,9
+EA50,Electron Affinities,Thermochemistry,MACE-MP-0b3,36.28192860761008,39,50,11
+EA50,Electron Affinities,Thermochemistry,MACE-OMOL-0-100M,8.436332622158028,40,50,10
+EA50,Electron Affinities,Thermochemistry,MACE-OMOL-0-4M,13.96893506513633,40,50,10
+EA50,Electron Affinities,Thermochemistry,MACE-POLAR-1-L,7.688785964613173,40,50,10
+EA50,Electron Affinities,Thermochemistry,MACE-POLAR-1-M,5.601289956698593,39,50,11
+EA50,Electron Affinities,Thermochemistry,MACE-POLAR-1-S,6.813037293386962,39,50,11
+EA50,Electron Affinities,Thermochemistry,wB97M-V,2.058952095850818,40,50,10
+FH51,General Reaction Energies,Thermochemistry,MACE-MP-0b3,10.812494436634289,51,51,0
+FH51,General Reaction Energies,Thermochemistry,MACE-OMOL-0-100M,1.1361154378516296,51,51,0
+FH51,General Reaction Energies,Thermochemistry,MACE-OMOL-0-4M,1.1886416891572644,51,51,0
+FH51,General Reaction Energies,Thermochemistry,MACE-POLAR-1-L,1.1423402190484575,51,51,0
+FH51,General Reaction Energies,Thermochemistry,MACE-POLAR-1-M,1.293730427503489,51,51,0
+FH51,General Reaction Energies,Thermochemistry,MACE-POLAR-1-S,1.4323311225391018,51,51,0
+FH51,General Reaction Energies,Thermochemistry,wB97M-V,0.9489390481535956,51,51,0
+G21EA,Electron Affinities,Thermochemistry,MACE-MP-0b3,33.672076009317564,18,25,7
+G21EA,Electron Affinities,Thermochemistry,MACE-OMOL-0-100M,8.086194555465969,18,25,7
+G21EA,Electron Affinities,Thermochemistry,MACE-OMOL-0-4M,9.966484578777862,18,25,7
+G21EA,Electron Affinities,Thermochemistry,MACE-POLAR-1-L,4.438987405230553,18,25,7
+G21EA,Electron Affinities,Thermochemistry,MACE-POLAR-1-M,4.269049564541762,18,25,7
+G21EA,Electron Affinities,Thermochemistry,MACE-POLAR-1-S,8.004292439112689,18,25,7
+G21EA,Electron Affinities,Thermochemistry,wB97M-V,1.3744839856503777,18,25,7
+G21IP,Ionization Potentials,Thermochemistry,MACE-OMOL-0-100M,26.39124471940936,6,36,30
+G21IP,Ionization Potentials,Thermochemistry,MACE-OMOL-0-4M,63.26309451969181,7,36,29
+G21IP,Ionization Potentials,Thermochemistry,MACE-POLAR-1-L,9.911326504876442,21,36,15
+G21IP,Ionization Potentials,Thermochemistry,MACE-POLAR-1-M,11.002907816280672,21,36,15
+G21IP,Ionization Potentials,Thermochemistry,MACE-POLAR-1-S,11.044485994149193,21,36,15
+G21IP,Ionization Potentials,Thermochemistry,wB97M-V,3.418342530778985,21,36,15
+G2RC24,General Reaction Energies,Thermochemistry,MACE-MP-0b3,20.7227736630958,24,24,0
+G2RC24,General Reaction Energies,Thermochemistry,MACE-OMOL-0-100M,2.2216248885174,24,24,0
+G2RC24,General Reaction Energies,Thermochemistry,MACE-OMOL-0-4M,2.847490217199173,24,24,0
+G2RC24,General Reaction Energies,Thermochemistry,MACE-POLAR-1-L,2.447363064447776,24,24,0
+G2RC24,General Reaction Energies,Thermochemistry,MACE-POLAR-1-M,2.4539256039702404,24,24,0
+G2RC24,General Reaction Energies,Thermochemistry,MACE-POLAR-1-S,2.2089036667639266,24,24,0
+G2RC24,General Reaction Energies,Thermochemistry,wB97M-V,2.0494967078033985,24,24,0
+HAT707MR,Bond Dissociation Energies,Thermochemistry,MACE-MP-0b3,18.60715000344119,49,202,153
+HAT707MR,Bond Dissociation Energies,Thermochemistry,MACE-OMOL-0-100M,4.116248006603148,49,202,153
+HAT707MR,Bond Dissociation Energies,Thermochemistry,MACE-OMOL-0-4M,16.117592995408568,49,202,153
+HAT707MR,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-L,5.682787445373851,49,202,153
+HAT707MR,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-M,5.30405453410233,49,202,153
+HAT707MR,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-S,5.642353217422028,49,202,153
+HAT707MR,Bond Dissociation Energies,Thermochemistry,wB97M-V,4.086172086415038,49,202,153
+HAT707nonMR,Bond Dissociation Energies,Thermochemistry,MACE-MP-0b3,8.935265508267475,54,505,451
+HAT707nonMR,Bond Dissociation Energies,Thermochemistry,MACE-OMOL-0-100M,5.356879132138084,54,505,451
+HAT707nonMR,Bond Dissociation Energies,Thermochemistry,MACE-OMOL-0-4M,2.368671169881976,54,505,451
+HAT707nonMR,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-L,1.6341470155847773,54,505,451
+HAT707nonMR,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-M,2.1040304265349086,54,505,451
+HAT707nonMR,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-S,3.3407554619975337,54,505,451
+HAT707nonMR,Bond Dissociation Energies,Thermochemistry,wB97M-V,1.625256551237281,54,505,451
+IP23,Ionization Potentials,Thermochemistry,MACE-OMOL-0-100M,30.06108023941201,7,23,16
+IP23,Ionization Potentials,Thermochemistry,MACE-OMOL-0-4M,43.254342228542484,7,23,16
+IP23,Ionization Potentials,Thermochemistry,MACE-POLAR-1-L,12.09073312505777,21,23,2
+IP23,Ionization Potentials,Thermochemistry,MACE-POLAR-1-M,11.41593699760869,21,23,2
+IP23,Ionization Potentials,Thermochemistry,MACE-POLAR-1-S,13.237839888555946,21,23,2
+IP23,Ionization Potentials,Thermochemistry,wB97M-V,2.7968945322950276,21,23,2
+IP30,Ionization Potentials,Thermochemistry,MACE-OMOL-0-100M,21.979095935091664,17,30,13
+IP30,Ionization Potentials,Thermochemistry,MACE-OMOL-0-4M,44.9782846390629,15,30,15
+IP30,Ionization Potentials,Thermochemistry,MACE-POLAR-1-L,6.839126372384083,30,30,0
+IP30,Ionization Potentials,Thermochemistry,MACE-POLAR-1-M,5.724189696538982,30,30,0
+IP30,Ionization Potentials,Thermochemistry,MACE-POLAR-1-S,6.3201306658268,30,30,0
+IP30,Ionization Potentials,Thermochemistry,wB97M-V,5.358702589153323,30,30,0
+MB08-165,Mindless Molecules (MB08/16),Thermochemistry,MACE-MP-0b3,38.77205216509383,138,165,27
+MB08-165,Mindless Molecules (MB08/16),Thermochemistry,MACE-OMOL-0-100M,5.667381985067407,165,165,0
+MB08-165,Mindless Molecules (MB08/16),Thermochemistry,MACE-OMOL-0-4M,12.859097500001939,165,165,0
+MB08-165,Mindless Molecules (MB08/16),Thermochemistry,MACE-POLAR-1-L,5.353671612582345,165,165,0
+MB08-165,Mindless Molecules (MB08/16),Thermochemistry,MACE-POLAR-1-M,8.119795022380703,165,165,0
+MB08-165,Mindless Molecules (MB08/16),Thermochemistry,MACE-POLAR-1-S,8.817866364493918,164,165,1
+MB08-165,Mindless Molecules (MB08/16),Thermochemistry,wB97M-V,3.790403667966369,165,165,0
+MB16-43,Mindless Molecules (MB08/16),Thermochemistry,MACE-MP-0b3,27.85270938777623,2,43,41
+MB16-43,Mindless Molecules (MB08/16),Thermochemistry,MACE-OMOL-0-100M,20.647632586930083,43,43,0
+MB16-43,Mindless Molecules (MB08/16),Thermochemistry,MACE-OMOL-0-4M,25.41407476421496,41,43,2
+MB16-43,Mindless Molecules (MB08/16),Thermochemistry,MACE-POLAR-1-L,25.63984198385273,42,43,1
+MB16-43,Mindless Molecules (MB08/16),Thermochemistry,MACE-POLAR-1-M,35.80804583528681,41,43,2
+MB16-43,Mindless Molecules (MB08/16),Thermochemistry,MACE-POLAR-1-S,30.178039190546702,43,43,0
+MB16-43,Mindless Molecules (MB08/16),Thermochemistry,wB97M-V,15.430126484566387,43,43,0
+NBPRC,General Reaction Energies,Thermochemistry,MACE-MP-0b3,21.699350138112695,12,12,0
+NBPRC,General Reaction Energies,Thermochemistry,MACE-OMOL-0-100M,1.4354705759471746,12,12,0
+NBPRC,General Reaction Energies,Thermochemistry,MACE-OMOL-0-4M,5.087946358311836,12,12,0
+NBPRC,General Reaction Energies,Thermochemistry,MACE-POLAR-1-L,2.823834562277737,12,12,0
+NBPRC,General Reaction Energies,Thermochemistry,MACE-POLAR-1-M,1.7934803786625284,12,12,0
+NBPRC,General Reaction Energies,Thermochemistry,MACE-POLAR-1-S,4.188935053448732,12,12,0
+NBPRC,General Reaction Energies,Thermochemistry,wB97M-V,0.9487755260665578,12,12,0
+ORBH35,Barrier Heights,Barrier Height,MACE-MP-0b3,15.852417249440421,32,35,3
+ORBH35,Barrier Heights,Barrier Height,MACE-OMOL-0-100M,3.4042117740490037,32,35,3
+ORBH35,Barrier Heights,Barrier Height,MACE-OMOL-0-4M,3.9548373213183603,32,35,3
+ORBH35,Barrier Heights,Barrier Height,MACE-POLAR-1-L,3.0384120694192633,32,35,3
+ORBH35,Barrier Heights,Barrier Height,MACE-POLAR-1-M,3.7061635343753845,32,35,3
+ORBH35,Barrier Heights,Barrier Height,MACE-POLAR-1-S,4.143348648722156,32,35,3
+ORBH35,Barrier Heights,Barrier Height,wB97M-V,2.217200501188729,32,35,3
+PA26,Proton Affinities,Thermochemistry,MACE-MP-0b3,87.83296174436944,7,26,19
+PA26,Proton Affinities,Thermochemistry,MACE-OMOL-0-100M,11.028850797197872,22,26,4
+PA26,Proton Affinities,Thermochemistry,MACE-OMOL-0-4M,24.801178824268924,22,26,4
+PA26,Proton Affinities,Thermochemistry,MACE-POLAR-1-L,2.10938505684355,26,26,0
+PA26,Proton Affinities,Thermochemistry,MACE-POLAR-1-M,2.342065055814702,26,26,0
+PA26,Proton Affinities,Thermochemistry,MACE-POLAR-1-S,4.046593151392259,26,26,0
+PA26,Proton Affinities,Thermochemistry,wB97M-V,1.503315381905575,26,26,0
+PX9,Proton Transfer,Barrier Height,MACE-MP-0b3,17.317515182547297,9,9,0
+PX9,Proton Transfer,Barrier Height,MACE-OMOL-0-100M,3.4150478680655114,9,9,0
+PX9,Proton Transfer,Barrier Height,MACE-OMOL-0-4M,3.9908312973593842,9,9,0
+PX9,Proton Transfer,Barrier Height,MACE-POLAR-1-L,1.697555332253185,9,9,0
+PX9,Proton Transfer,Barrier Height,MACE-POLAR-1-M,2.7293283316619665,9,9,0
+PX9,Proton Transfer,Barrier Height,MACE-POLAR-1-S,3.009846956679455,9,9,0
+PX9,Proton Transfer,Barrier Height,wB97M-V,1.8165338922457357,9,9,0
+RC21,General Reaction Energies,Thermochemistry,MACE-MP-0b3,26.062099302324054,19,21,2
+RC21,General Reaction Energies,Thermochemistry,MACE-OMOL-0-100M,8.55188607287137,13,21,8
+RC21,General Reaction Energies,Thermochemistry,MACE-OMOL-0-4M,19.540778159990136,13,21,8
+RC21,General Reaction Energies,Thermochemistry,MACE-POLAR-1-L,2.691498477525973,19,21,2
+RC21,General Reaction Energies,Thermochemistry,MACE-POLAR-1-M,2.50056817417024,19,21,2
+RC21,General Reaction Energies,Thermochemistry,MACE-POLAR-1-S,2.5112785001027915,19,21,2
+RC21,General Reaction Energies,Thermochemistry,wB97M-V,1.7436870102355355,19,21,2
+RSE43,Radical Stabilization,Thermochemistry,MACE-MP-0b3,8.099161522405417,43,43,0
+RSE43,Radical Stabilization,Thermochemistry,MACE-OMOL-0-100M,4.9703966720803106,43,43,0
+RSE43,Radical Stabilization,Thermochemistry,MACE-OMOL-0-4M,4.521317208711959,43,43,0
+RSE43,Radical Stabilization,Thermochemistry,MACE-POLAR-1-L,0.6317891524995265,43,43,0
+RSE43,Radical Stabilization,Thermochemistry,MACE-POLAR-1-M,0.8068181697065814,43,43,0
+RSE43,Radical Stabilization,Thermochemistry,MACE-POLAR-1-S,1.3347020121689186,43,43,0
+RSE43,Radical Stabilization,Thermochemistry,wB97M-V,0.7865778313128037,43,43,0
+WCPT26,Proton Transfer,Barrier Height,MACE-MP-0b3,14.782412615177016,26,26,0
+WCPT26,Proton Transfer,Barrier Height,MACE-OMOL-0-100M,1.7938355534788069,26,26,0
+WCPT26,Proton Transfer,Barrier Height,MACE-OMOL-0-4M,1.7948822373451807,26,26,0
+WCPT26,Proton Transfer,Barrier Height,MACE-POLAR-1-L,1.8045870824545927,26,26,0
+WCPT26,Proton Transfer,Barrier Height,MACE-POLAR-1-M,1.965500201286028,26,26,0
+WCPT26,Proton Transfer,Barrier Height,MACE-POLAR-1-S,2.1003667882100046,26,26,0
+WCPT26,Proton Transfer,Barrier Height,wB97M-V,1.2132107697975487,26,26,0
+YBDE18,Bond Dissociation Energies,Thermochemistry,MACE-MP-0b3,15.561931764278134,18,18,0
+YBDE18,Bond Dissociation Energies,Thermochemistry,MACE-OMOL-0-100M,5.431005682957916,18,18,0
+YBDE18,Bond Dissociation Energies,Thermochemistry,MACE-OMOL-0-4M,17.138149293838296,18,18,0
+YBDE18,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-L,3.9156331321357687,18,18,0
+YBDE18,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-M,2.133594337193079,18,18,0
+YBDE18,Bond Dissociation Energies,Thermochemistry,MACE-POLAR-1-S,6.640022556935148,18,18,0
+YBDE18,Bond Dissociation Energies,Thermochemistry,wB97M-V,2.978937531800584,18,18,0

@@ -1,0 +1,51 @@
+Subset,Model,outlier_gt_100,single_atom
+Barrier Heights,MACE-MP-0b3,0,27
+Barrier Heights,MACE-OMOL-0-100M,0,27
+Barrier Heights,MACE-OMOL-0-4M,0,27
+Barrier Heights,MACE-POLAR-1-L,0,27
+Barrier Heights,MACE-POLAR-1-M,0,27
+Barrier Heights,MACE-POLAR-1-S,0,27
+Barrier Heights,wB97M-V,0,27
+Bond Dissociation Energies,MACE-MP-0b3,0,691
+Bond Dissociation Energies,MACE-OMOL-0-100M,0,691
+Bond Dissociation Energies,MACE-OMOL-0-4M,0,691
+Bond Dissociation Energies,MACE-POLAR-1-L,0,691
+Bond Dissociation Energies,MACE-POLAR-1-M,0,691
+Bond Dissociation Energies,MACE-POLAR-1-S,0,691
+Bond Dissociation Energies,wB97M-V,0,691
+Electron Affinities,MACE-MP-0b3,1,17
+Electron Affinities,MACE-OMOL-0-100M,0,17
+Electron Affinities,MACE-OMOL-0-4M,0,17
+Electron Affinities,MACE-POLAR-1-L,0,17
+Electron Affinities,MACE-POLAR-1-M,1,17
+Electron Affinities,MACE-POLAR-1-S,1,17
+Electron Affinities,wB97M-V,0,17
+General Reaction Energies,MACE-MP-0b3,0,21
+General Reaction Energies,MACE-OMOL-0-100M,6,21
+General Reaction Energies,MACE-OMOL-0-4M,6,21
+General Reaction Energies,MACE-POLAR-1-L,0,21
+General Reaction Energies,MACE-POLAR-1-M,0,21
+General Reaction Energies,MACE-POLAR-1-S,0,21
+General Reaction Energies,wB97M-V,0,21
+Ionization Potentials,MACE-MP-0b3,72,17
+Ionization Potentials,MACE-OMOL-0-100M,42,17
+Ionization Potentials,MACE-OMOL-0-4M,43,17
+Ionization Potentials,MACE-POLAR-1-L,0,17
+Ionization Potentials,MACE-POLAR-1-M,0,17
+Ionization Potentials,MACE-POLAR-1-S,0,17
+Ionization Potentials,wB97M-V,0,17
+Mindless Molecules (MB08/16),MACE-MP-0b3,68,0
+Mindless Molecules (MB08/16),MACE-OMOL-0-4M,2,0
+Mindless Molecules (MB08/16),MACE-POLAR-1-L,1,0
+Mindless Molecules (MB08/16),MACE-POLAR-1-M,2,0
+Mindless Molecules (MB08/16),MACE-POLAR-1-S,1,0
+Proton Affinities,MACE-MP-0b3,19,0
+Proton Affinities,MACE-OMOL-0-100M,4,0
+Proton Affinities,MACE-OMOL-0-4M,4,0
+Proton Transfer,MACE-MP-0b3,0,9
+Proton Transfer,MACE-OMOL-0-100M,0,9
+Proton Transfer,MACE-OMOL-0-4M,0,9
+Proton Transfer,MACE-POLAR-1-L,0,9
+Proton Transfer,MACE-POLAR-1-M,0,9
+Proton Transfer,MACE-POLAR-1-S,0,9
+Proton Transfer,wB97M-V,0,9
