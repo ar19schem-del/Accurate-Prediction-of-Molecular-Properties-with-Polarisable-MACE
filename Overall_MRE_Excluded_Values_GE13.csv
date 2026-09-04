@@ -1,0 +1,11 @@
+Datatype (MRE Values),Method,MRE,Reason
+Electric field,MACE-POLAR-1-S,331.6308385,Plot-only filtering: MRE >= 13
+Noncovalent,MACE-POLAR-1-S,15.80788159,Plot-only filtering: MRE >= 13
+Thermochemistry,MACE-POLAR-1-S,30.56865766,Plot-only filtering: MRE >= 13
+Electric field,MACE-POLAR-1-M,92.15029221,Plot-only filtering: MRE >= 13
+Electric field,MACE-POLAR-1-L,95.69973569,Plot-only filtering: MRE >= 13
+Noncovalent,MACE-POLAR-1-L,136.1798605,Plot-only filtering: MRE >= 13
+Thermochemistry,MACE-OMOL-0-100M,16.56381547,Plot-only filtering: MRE >= 13
+Thermochemistry,MACE-OMOL-0-4M,1488.890025,Plot-only filtering: MRE >= 13
+Intramolecular Noncovalent,MACE-MP-0b3,20.65026034,Plot-only filtering: MRE >= 13
+Thermochemistry,MACE-MP-0b3,526.9590915,Plot-only filtering: MRE >= 13
